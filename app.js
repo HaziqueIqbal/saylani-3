@@ -1,0 +1,1 @@
+alert('This is Hazique Iqbal Property , click OK to visit')
